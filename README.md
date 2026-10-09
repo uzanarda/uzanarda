@@ -110,10 +110,28 @@ POLIFIN is a full-stack, AI-powered personal finance platform that makes investi
 
 **Technologies:** Python · FastAPI · LangGraph · MCP · PostgreSQL · pgvector · Next.js · React · TypeScript
 
-<!-- GIF 1: Dashboard -->
-<!-- GIF 2: Document Analysis + RAG -->
-<!-- GIF 3: POLIFIN AI Chat -->
+<p align="center">
+  <a href="https://github.com/Policommitte/finans-danismani/blob/main/docs/media/videos/01-genel-bakis.mp4">
+    <img src="https://raw.githubusercontent.com/Policommitte/finans-danismani/main/docs/media/gifs/01-genel-bakis.gif" alt="POLIFIN overview" width="820">
+  </a>
+</p>
 
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Policommitte/finans-danismani/blob/main/docs/media/videos/02-rag-belge-analizi.mp4">
+        <img src="https://raw.githubusercontent.com/Policommitte/finans-danismani/main/docs/media/gifs/02-rag-belge-analizi.gif" alt="Document analysis + RAG">
+      </a>
+      <br><b>Document Analysis + RAG</b>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Policommitte/finans-danismani/blob/main/docs/media/videos/04-polifin-ai-sohbet.mp4">
+        <img src="https://raw.githubusercontent.com/Policommitte/finans-danismani/main/docs/media/gifs/04-polifin-ai-sohbet.gif" alt="POLIFIN AI chat">
+      </a>
+      <br><b>Multi-Agent AI Chat</b>
+    </td>
+  </tr>
+</table>
 [View Repository](https://github.com/Policommitte/finans-danismani) · [Watch Demo Videos](https://github.com/Policommitte/finans-danismani#demo-videolar%C4%B1--demo-videos)
 
 ### HİDROİST — ADAS for a Hydrogen-Powered Vehicle
