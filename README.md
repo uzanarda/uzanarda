@@ -178,14 +178,17 @@ An underwater vehicle built to complete scenario-based missions both autonomousl
 
 > The source code for the HİDROİST projects is kept private to protect the team's ongoing development.
 
----
-
 ```text
-arda@istanbul:~$ neofetch
-  name      Arda "Claude" Uzan
-  role      Backend & AI engineer in the making
-  based in  Istanbul, TR
-  stack     Java · Python · LLMs · C++
-  hobbies   running · swimming · trekking · music
-  luck      self-made
+         ______      arda@istanbul
+        /     /      -------------
+       /     /       OS        Istanbul, TR
+      /     /____    Host      Arda "Claude" Uzan
+     /          /    Kernel    Backend · AI · Data
+    /____      /     Uptime    always on
+        /     /      Shell     Java · Python · C++
+       /    /        Packages  LLM · RAG · YOLO · OpenCV
+      /   /          Hobbies   running · swimming · trekking · music
+     /  /            Luck      self-made
+    / /
+   //
 ```
