@@ -1,5 +1,9 @@
 # Hi there, I'm Arda Uzan 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=D97757&center=true&vCenter=true&width=640&lines=Backend+%C2%B7+AI+%C2%B7+Robotics;From+hydrogen+cars+to+underwater+robots+to+LLM+agents;Making+my+own+luck+%E2%9A%A1" alt="Typing intro" />
+</p>
+
 **Software Engineer | Backend & AI Engineering | Scrum Master**
 
 Hi, I'm Arda ⚡ — backend & AI engineer in the making, based in Istanbul. I build things that think — and things that move. 🚀
@@ -91,7 +95,7 @@ Led the software team of HİDROİST for TEKNOFEST 2026 in two competitions — t
 ### Scrum Master & Software Engineer — InternTech 2026, Intertech
 *Team Policommittee*
 
-Contributed to the design, development and delivery of POLIFIN, a full-stack AI-powered personal finance platform, as part of an 11-member cross-functional team — with 158 contributions to the project repository.
+Contributed to the design, development and delivery of POLIFIN, a full-stack AI-powered personal finance platform, as part of an 11-member cross-functional team.
 
 - **Scrum Master:** Scrum Master of the team.
 - **Backend Development:** Developed backend services, APIs and application logic with Python and FastAPI.
@@ -173,3 +177,15 @@ An underwater vehicle built to complete scenario-based missions both autonomousl
 **Technologies:** C++ · Python · YOLO · OpenCV · Transfer Learning · PID Control · Sensor Fusion · Pixhawk · ArduSub · MAVLink
 
 > The source code for the HİDROİST projects is kept private to protect the team's ongoing development.
+
+---
+
+```text
+arda@istanbul:~$ neofetch
+  name      Arda "Claude" Uzan
+  role      Backend & AI engineer in the making
+  based in  Istanbul, TR
+  stack     Java · Python · LLMs · C++
+  hobbies   running · swimming · trekking · music
+  luck      self-made
+```
