@@ -1,7 +1,7 @@
 # Hi there, I'm Arda Uzan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=D97757&center=true&vCenter=true&width=820&lines=Backend+%C2%B7+AI+%C2%B7+Robotics;Hydrogen+cars+%C2%B7+Underwater+robots+%C2%B7+LLM+agents;Making+my+own+luck+%E2%9A%A1" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=D97757&center=true&vCenter=true&width=820&lines=2x+TEKNOFEST+Finalist;1x+Scrum+Master;Senior+SENG+Student;Backend+%C2%B7+AI+%C2%B7+Data" alt="Typing intro" />
 </p>
 
 **Software Engineer | Backend & AI Engineering | Scrum Master**
