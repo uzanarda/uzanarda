@@ -11,7 +11,17 @@ And I'm fairly convinced I'm Harvey Specter, because:
 > *"I don't get lucky. I make my own luck."*
 
 ## 🎯 Objective
-To grow as a backend and AI engineer, building reliable, production-grade systems that bring LLMs and data into real products — with a particular interest in fintech and the defense industry.
+
+**Building AI you can bet your money and your mission on — for fintech and defense.**
+
+My goal is to become a well-rounded engineer with a strong backend at the core. The foundation comes first: Java (Spring Boot), Python, SQL, algorithms, Docker and CI/CD. On top of that, I'm growing into AI and data — LLM applications, RAG, AI agents, data pipelines and machine learning models that run in production. And I keep the skills I built in robotics, computer vision and embedded C++, while adding frontend and mobile, so I can take a product from the first idea to the final user.
+
+```mermaid
+flowchart LR
+    A["Foundation<br/>Java · Spring Boot · Python · SQL<br/>Algorithms · Docker · CI/CD"] --> B["AI & Data<br/>LLM · RAG · AI Agents<br/>Data Pipelines · Machine Learning"]
+    A --> C["Robotics<br/>Computer Vision · Embedded C++"]
+    B --> D["End-to-End Products<br/>Frontend · Mobile"]
+```
 
 ## 🛠️ Technical Skills
 
