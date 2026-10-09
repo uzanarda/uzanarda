@@ -4,7 +4,7 @@
 
 Hi, I'm Arda ⚡ — backend & AI engineer in the making, based in Istanbul. I build things that think — and things that move. 🚀
 
-My friends call me Arda "Claude" Uzan — apparently I have an answer for everything. Just like my projects, I don't sit still: I run, swim, go trekking and make music when I can. I collect experiences, opinions and good conversations about pretty much anything life throws at me.
+My friends call me Arda "Claude" Uzan <img src="https://cdn.simpleicons.org/claude/D97757" height="16" alt="Claude"> — apparently I have an answer for everything. Just like my projects, I don't sit still: I run, swim, go trekking and make music when I can. I collect experiences, opinions and good conversations about pretty much anything life throws at me.
 
 And I'm fairly convinced I'm Harvey Specter, because:
 
