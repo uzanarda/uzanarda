@@ -1,4 +1,6 @@
-# Hi there, I'm Arda Uzan 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:1C1C1C&height=200&section=header&text=Arda%20Uzan&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=Hi%20there%20%F0%9F%91%8B&descSize=20&descAlignY=55" alt="Arda Uzan" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=D97757&center=true&vCenter=true&width=820&lines=2x+TEKNOFEST+Finalist;1x+Scrum+Master;Senior+SENG+Student;Backend+%C2%B7+AI+%C2%B7+Data" alt="Typing intro" />
@@ -192,3 +194,12 @@ An underwater vehicle built to complete scenario-based missions both autonomousl
     / /
    //
 ```
+     /  /            Luck      self-made
+    / /
+   //
+````
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,100:D97757&height=120&section=footer" width="100%" />
+</p>
+````
