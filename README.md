@@ -180,6 +180,8 @@ An underwater vehicle built to complete scenario-based missions both autonomousl
 
 > The source code for the HİDROİST projects is kept private to protect the team's ongoing development.
 
+---
+
 ```text
          ______      arda@istanbul
         /     /      -------------
@@ -194,12 +196,10 @@ An underwater vehicle built to complete scenario-based missions both autonomousl
     / /
    //
 ```
-     /  /            Luck      self-made
-    / /
-   //
-````
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,100:D97757&height=120&section=footer" width="100%" />
+</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,100:D97757&height=120&section=footer" width="100%" />
 </p>
 ````
