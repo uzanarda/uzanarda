@@ -198,8 +198,5 @@ An underwater vehicle built to complete scenario-based missions both autonomousl
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,100:D97757&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:1C1C1C&height=120&section=footer" width="100%" />
 </p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,100:D97757&height=120&section=footer" width="100%" />
-</p>
-````
