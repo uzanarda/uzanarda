@@ -181,6 +181,10 @@ An underwater vehicle built to complete scenario-based missions both autonomousl
 > The source code for the HİDROİST projects is kept private to protect the team's ongoing development.
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uzanarda/uzanarda/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/uzanarda/uzanarda/output/github-snake.svg" />
+</picture>
 
 ```text
          ______      arda@istanbul
