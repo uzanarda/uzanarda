@@ -132,6 +132,7 @@ POLIFIN is a full-stack, AI-powered personal finance platform that makes investi
     </td>
   </tr>
 </table>
+
 [View Repository](https://github.com/Policommitte/finans-danismani) · [Watch Demo Videos](https://github.com/Policommitte/finans-danismani#demo-videolar%C4%B1--demo-videos)
 
 ### HİDROİST — ADAS for a Hydrogen-Powered Vehicle
